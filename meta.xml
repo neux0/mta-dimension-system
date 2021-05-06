@@ -1,0 +1,6 @@
+<meta>
+    <info author="neux0" version="1.0" name="Dimension system" description="Dimension system for players" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	<file src="header.png" />
+</meta>
